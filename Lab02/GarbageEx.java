@@ -1,5 +1,5 @@
 // J18-1	가비지의 발생
-public class GarvageEx {
+public class GarbageEx {
 	public static void main(String[] args) {
 		String a = new String("Good");
 		String b = new String("Bad");
