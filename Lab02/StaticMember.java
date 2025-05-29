@@ -13,7 +13,7 @@ class CurrencyConverter{
 		rate = r; // 환율 설정. 원/$1
 	}
 }
-public class StticMember {
+public class StaticMember {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("환율 (1달러)>> ");
