@@ -22,5 +22,5 @@
 **Wrapper 클래스** <p align='right'>2025-06-18~19</p>
 ---
 # 📖 [J-42](./J_42.md)
-**String 클래스** <p align='right'>2025-06-18~19</p>
+**String 클래스** <p align='right'>2025-06-20</p>
 ---
