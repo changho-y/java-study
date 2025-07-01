@@ -5,3 +5,4 @@
   * [Lab03](./Lab03/Lab03_README.md) **상속**
   * [Lab04](./Lab04/Lab04_README.md) **모듈과 패키지 개념, 자바 기본 패키지**
   * [Lab05](./Lab05/Lab05_README.md) **제네릭과 컬렉션**
+  * [Lab06](./Lab06/Lab06_README.md) **입출력 스트림과 파일 입출력**
