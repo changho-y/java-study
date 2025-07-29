@@ -16,5 +16,5 @@
 **KeyEvent와 KeyListener** <p align='right'>2025-07-25~27</p>
 ---
 # 📖 [J-80](./J_80.md) / 📖 [J-81](./J_81.md)
-**MouseEvent와 MouseListener, MouseMotionListener, MouseWheelListener** <p align='right'>2025-07-28-29</p>
+**MouseEvent와 MouseListener, MouseMotionListener, MouseWheelListener** <p align='right'>2025-07-28~29</p>
 ---
