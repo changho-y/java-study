@@ -21,4 +21,3 @@
 # 📖 [J-107](./J_107.md)
 **JButton paintComponent** <p align='right'>2025-08-24</p>
 ---
-# 어어어
