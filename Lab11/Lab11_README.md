@@ -13,5 +13,5 @@
 **스레드 종료** <p align='right'>2025-08-29~30</p>
 ---
 # 📖 [J-114](./J_114.md)
-*wait(), notify()를 이용한 바 채우기** <p align='right'>2025-08-31</p>
+**wait(), notify()를 이용한 바 채우기** <p align='right'>2025-08-31</p>
 ---
