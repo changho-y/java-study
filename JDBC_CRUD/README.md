@@ -4,7 +4,7 @@
 
 <img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/fe3533cc-4dfe-4342-89e1-2fed0d48deb8" />
 
-### 아키텍처 구조 - MVC 패턴(Model-view-Controller)
+### 아키텍처 구조 - MVC 패턴(Model-View-Controller)
 
 - Model - AddrDTO : 데이터를 담는 객체, 데이터베이스의 한 행을 자바 객체로 매핑합니다.
 - view-Controller - Main : Swing을 이용한 화면 구성(UI)과 사용자의 버튼 클릭 이벤트를 처리하는 로직
